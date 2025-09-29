@@ -20,7 +20,7 @@ const generate_DAA = () => { // eslint-disable-line camelcase
 
   instruction.description = (
     <p>
-      Adjust the accumulator (register A) too a binary-coded decimal (BCD) number
+      Adjust the accumulator (register A) to a binary-coded decimal (BCD) number
       after BCD addition and subtraction operations.
     </p>
   );
